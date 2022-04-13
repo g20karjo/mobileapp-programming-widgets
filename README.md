@@ -24,4 +24,4 @@ app:layout_constraintTop_toTopOf="@+id/imageView" />`
 Den fick även lite design element så som annan textstorlek, annan färg och blev även kursiv. Sedan
 så lektes det runt lite, ändrade margins och constraints, textstorlek och färg.
 
-![](screenshot.png)
+![](Screenshot.png)
