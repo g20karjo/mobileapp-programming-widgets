@@ -4,15 +4,7 @@ Det första som gjordes var att lägga till en ImageView, en EditText och en But
 `activity_main.xml`
 
 
-`<ImageView
-
-/>
-<EditText
-
-/>
-<Button
-
-/>`
+`<ImageView/><EditText/><Button/>`
 
 
 Jag valde att använda mig av constraint layout och behövde därför inte ändra någon layout i `activity_main.xml`
