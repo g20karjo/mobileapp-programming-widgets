@@ -1,6 +1,8 @@
 ## Rapport
 
-Det första som gjordes var att lägga till en ImageView, en EditText och en Button i `activity_main.xml`
+Det första som gjordes var att lägga till en ImageView, en EditText och en Button i
+`activity_main.xml`
+
 
 `<ImageView
 
@@ -11,6 +13,8 @@ Det första som gjordes var att lägga till en ImageView, en EditText och en But
 <Button
 
 />`
+
+
 Jag valde att använda mig av constraint layout och behövde därför inte ändra någon layout i `activity_main.xml`
 Det lades till constraints och margins till alla vyer/knappar/textfält. Det lades även till element
 av design så som färger och textstorlek med mera. Det lades till egna färger i `colors.xml` och
